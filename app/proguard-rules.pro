@@ -1,0 +1,4 @@
+-keep class com.pulsemusic.player.model.** { *; }
+-keep class com.pulsemusic.player.service.** { *; }
+-keep class com.pulsemusic.player.widget.** { *; }
+-dontwarn androidx.media3.**

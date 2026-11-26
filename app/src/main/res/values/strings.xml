@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PulseMusic</string>
+    <string name="unknown_artist">Unknown Artist</string>
+    <string name="unknown_album">Unknown Album</string>
+    <string name="tap_to_play">Tap to open library</string>
+    <string name="island_subtitle">Pulse Island</string>
+    <string name="widget_description">PulseMusic compact player widget</string>
+    <string name="cd_album_art">Album Artwork</string>
+    <string name="cd_previous">Previous Track</string>
+    <string name="cd_play_pause">Play or Pause</string>
+    <string name="cd_next">Next Track</string>
+    <string name="cd_favorite">Toggle Favorite</string>
+    <string name="cd_collapse">Collapse Island</string>
+    <string name="cd_open_app">Open PulseMusic</string>
+</resources>
